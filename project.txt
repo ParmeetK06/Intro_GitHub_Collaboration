@@ -1,1 +1,3 @@
 Welcome to our GitHub Collaboration project.
+
+Homepage feature is being developed.
